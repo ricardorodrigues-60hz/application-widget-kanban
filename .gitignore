@@ -3,6 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Arquivos onde nao sei por ainda
+.secrets-naoseiondeporainda/
+
+
 # C extensions
 *.so
 
